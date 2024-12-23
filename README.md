@@ -17,19 +17,14 @@
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rubenrocha26&show_icons=true&theme=dark" alt="Ruben Rocha's GitHub Stats" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenrocha26&layout=compact&theme=dark" alt="Top Languages" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rubenrocha26&show_icons=true&theme=dark" alt="Ruben ROc's GitHub Stats" /></p>
 <br><br><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenrocha26&layout=compact&theme=dark&langs_count=10" alt="Top Languages" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rubenrocha26&theme=dark" alt="GitHub Streak" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br>
 <hr width="60%" >
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rubenrocha26" target="blank">
