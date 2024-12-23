@@ -33,7 +33,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rubenrocha26" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="rubenrocha26" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="rubenrocha26" height="30" width="120" />
   </a>
 </p>
 
