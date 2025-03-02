@@ -35,7 +35,7 @@
 <a href="https://www.linkedin.com/in/rubenrocha26/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" style="margin-bottom: 5px;">
 </a>
-<a href="rubenrocha26pt@gmail.com" target="_blank">
+<a href="mailto:rubenrocha26pt@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;">
 </a>
 <a href="https://github.com/rubenrocha26" target="_blank">
